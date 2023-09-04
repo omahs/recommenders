@@ -51,7 +51,7 @@ Criteo
 ======
 
 `Criteo dataset <https://www.kaggle.com/c/criteo-display-ad-challenge/overview>`_, released by Criteo Labs, is an online advertising dataset that contains feature values and click feedback 
-for millions of display Ads. Every Ad has has 40 attributes, the first attribute is the label where a value 1 represents 
+for millions of display Ads. Every Ad has 40 attributes, the first attribute is the label where a value 1 represents 
 that the Ad has been clicked on and a 0 represents it wasn't clicked on. The rest consist of 13 integer columns and 
 26 categorical columns.
 
